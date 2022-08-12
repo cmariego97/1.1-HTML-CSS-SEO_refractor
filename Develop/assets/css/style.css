@@ -75,14 +75,14 @@ p {
     margin-left: 25px;
 }
 
-/* --- MAIN CONTENT DISPLAY PROPERTIES  */
+/* --- CONTENT DISPLAY PROPERTIES --- */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* --- SIDE COLUMN CONTENT PROPERTIES */
+/* --- SIDE COLUMN CONTENT PROPERTIES --- */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -110,6 +110,7 @@ p {
     max-width: 150px;
 }
 
+/* --- MAIN CONTENT PROPERTIES --- */
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
